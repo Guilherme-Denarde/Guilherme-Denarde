@@ -18,11 +18,14 @@
 
 ###
 
-<div align="left">
+<div align="left" style="text-align:center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,java,py,nestjs,jest,c,postgres,mongodb,mysql&perline=6" style="max-width:100%;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Denarde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" style="max-width:100%;" align="right" />
+</div>
+
+<div align="left" style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Denarde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" style="max-width:100%;" />
 </div>
 
 ###
@@ -31,7 +34,7 @@
 
 ###
 
-<p align="left">
+<div align="left" style="text-align:center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,aws,docker,git,figma,cloudflare,linux,firebase,raspberrypi,arduino&perline=6" style="max-width:100%;" />
   </a>
