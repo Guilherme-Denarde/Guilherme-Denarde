@@ -18,11 +18,12 @@
 
 ###
 
-<p align="center">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,java,py,nestjs,jest,c,postgres,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,java,py,nestjs,jest,c,postgres,mongodb,mysql&perline=6" />
   </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Denarde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" align="right" />
+</div>
 
 ###
 
@@ -30,24 +31,20 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,aws,docker,git,figma,cloudflare,linux,firebase,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=postman,aws,docker,git,figma,cloudflare,linux,firebase,raspberrypi,arduino&perline=6" />
   </a>
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Denarde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilherme-Denarde&color=green&style=liquid" />
-</p>
 
 ## 💬 Get in touch
 I'm always open to new opportunities and collaborations, so feel free to reach out to me via email or LinkedIn. Let's connect and build something great together!
 
 - 📫 Email: guilhermenarde70@gmail.com
 - 💼 LinkedIn: [Guilherme Narde](https://www.linkedin.com/in/~guilherme-narde-54b754240/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Guilherme-Denarde&color=green&style=liquid" />
+</p>
