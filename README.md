@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about Kubernetes, Docker, and Vim.<br>🎯 Goals: To build more efficient and scalable applications using cutting-edge technologies.<br>🎲 Fun fact: When I'm not coding, I love to travel and explore new places, which helps me become a better problem solver.</p>
+<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: To build more efficient and scalable applications using cutting-edge technologies.<br>🎲 Fun fact: When I'm not coding, I love to travel and explore new places, which helps me become a better problem solver.</p>
 
 ###
 
@@ -20,9 +20,9 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,java,py,nestjs,jest,c,postgres,mongodb,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,java,py,nestjs,jest,c,postgres,mongodb,mysql&perline=6" style="max-width:100%;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Denarde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Denarde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" style="max-width:100%;" align="right" />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,aws,docker,git,figma,cloudflare,linux,firebase,raspberrypi,arduino&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,aws,docker,git,figma,cloudflare,linux,firebase,raspberrypi,arduino&perline=6" style="max-width:100%;" />
   </a>
 </p>
 
@@ -46,5 +46,5 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 - 💼 LinkedIn: [Guilherme Narde](https://www.linkedin.com/in/~guilherme-narde-54b754240/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilherme-Denarde&color=green&style=liquid" />
+  <img src="https://komarev.com/ghpvc/?username=Guilherme-Denarde&color=green&style=liquid" style="max-width:100%;" />
 </p>
